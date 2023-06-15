@@ -23,6 +23,5 @@ public class arraySearchInsertDeletep2 {
             arr[i] = arr[i+1];
         
         return n-1;
-
     }
 }
