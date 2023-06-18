@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class arraySearchInsertDelete {
     static int findElement(int arr[], int n, int key){
         for(int i=0;i<n;i++)
