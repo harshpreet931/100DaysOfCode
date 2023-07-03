@@ -2,7 +2,8 @@
 // at front of given Linked List
 
 // A linked list node
-class Node {
+class Node
+ {
     int data;
     Node next;
 }
