@@ -1,0 +1,9 @@
+Average Salary Excluding the Minimum and Maximum Salary - LeetCode
+Count Odd Numbers in an Interval Range - LeetCode
+Maximum Number of Words Found in Sentences - LeetCode
+Goal Parser Interpretation - LeetCode
+Final Value of Variable After Performing Operations - LeetCode
+Defanging an IP Address - LeetCode
+Matrix Diagonal Sum - LeetCode
+Richest Customer Wealth - LeetCode
+Baseball Game - LeetCode
